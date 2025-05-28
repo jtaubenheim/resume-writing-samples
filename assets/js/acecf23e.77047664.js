@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[1903],{1912:s=>{s.exports=JSON.parse('{"blogBasePath":"/resume-writing-samples/blog","blogTitle":"Blog","authorsListPath":"/resume-writing-samples/blog/authors"}')}}]);
