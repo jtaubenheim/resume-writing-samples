@@ -20,16 +20,16 @@ const config = {
   },
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'https://jtaubenheim.github.io/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/resume-writing-samples/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'jtaubenheim', // Usually your GitHub org/user name.
   projectName: 'resume-writing-samples', // Usually your repo name.
-  deploymentBranch: 'build', // Custom branch name.
+  deploymentBranch: 'deployment', // Custom branch name.
   trailingSlash: false, // Optional, recommended for GH Page deployments.
 
   onBrokenLinks: 'throw',
